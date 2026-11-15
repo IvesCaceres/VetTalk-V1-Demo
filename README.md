@@ -63,6 +63,6 @@ The two template choices are simplified layouts for demonstration, not the origi
 
 See [SECURITY.md](SECURITY.md), [source provenance](docs/PROVENANCE.md), [third-party notices](docs/THIRD_PARTY.md) and [validation](docs/VALIDATION.md).
 
-No project-wide MIT license has been adopted. Redistribution rights for the retained original components and the final project license require owner confirmation before publication. Third-party components retain their own licenses and notices. A clean dependency audit is not a guarantee of complete security or clinical validity.
+Original project code and associated software documentation are distributed under the MIT license in [LICENSE](LICENSE), Copyright (c) 2026 Ives Cáceres. The owner confirms authorship, with AI assistance, and authorizes redistribution of the seven retained V1 source files. This confirmation supersedes earlier pending-rights statements in the provenance and validation notes; their technical limitations remain unchanged. MIT does not relicense third-party components or grant rights to private clinical reports, databases, patient information, private templates or other third-party materials. Dependencies retain their own licenses and notices. A clean dependency audit is not a guarantee of complete security or clinical validity.
 
 This candidate is prepared locally. Publication and remote repository changes require separate approval.
