@@ -1,0 +1,9 @@
+/* Explicitly constrain the inherited V1 flex root on small screens. */
+#root { width: 100%; min-width: 0; }
+.demo-app { width: 100%; min-width: 0; }
+.demo-workspace, .demo-sidebar { min-width: 0; max-width: 100%; }
+@media (max-width: 700px) {
+  .demo-sidebar { overflow-x: auto; }
+  .demo-sidebar button { flex-shrink: 0; }
+  .demo-header > div { min-width: 0; }
+}
